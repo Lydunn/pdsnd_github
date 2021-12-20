@@ -1,10 +1,11 @@
 import time
 import pandas as pd
 import numpy as np
-
+#only months that will have data available
 Months = ['january', 'february', 'march', 'april', 'may', 'june']
 Days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
+#the following cities is the only data available
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
