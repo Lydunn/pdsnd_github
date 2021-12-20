@@ -7,7 +7,7 @@
 Bike Share
 
 ### Description
-Describe what your project is about and what it does
+This project is for bike sharing for the cities of washington, chicago and new york city 
 
 ### Files used
 Include the files used
